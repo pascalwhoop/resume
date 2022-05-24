@@ -1,0 +1,285 @@
+{
+  "basics": {
+    "email": "jobs@pascalbrokmeier.de",
+    "image": "https://pascalbrokmeier.de/img/portrait_pascal_4_small.jpg",
+    "label": "Creative Lead Data Engineer & Product Owner",
+    "location": {
+      "address": "Arianelaan 4 B309",
+      "city": "Woluwe Saint Lambert",
+      "countryCode": "BE",
+      "postalCode": "1200",
+      "region": "Brussels"
+    },
+    "name": "Pascal Brokmeier",
+    "phone": "+32477480284",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/pascalbrokmeier/",
+        "username": "pascalbrokmeier"
+      }
+    ],
+    "summary": "A computer scientist by background, I have broad technical skills in engineering\nsoftware & data systems, linux environments and in the cloud. I have served numerous\nclients in a large range of industries and can therefore offer a wide range of\nsolutions to complex problems.\n\nProfessionally, my topics of interest are:\nBiotech, Medtech and mineral based carbon capturing. \n\nPersonally, I am interested in longevity and mindfullness. \n",
+    "url": "https://pascalbrokmeier.de"
+  },
+  "languages": [
+    {
+      "fluency": "Native speaker",
+      "language": "\ud83c\uddec\ud83c\udde7 English"
+    },
+    {
+      "fluency": "Native speaker",
+      "language": "\ud83c\udde9\ud83c\uddea German"
+    }
+  ],
+  "work": [
+    {
+      "roles": [
+        "Associate",
+        "Data Engineer",
+        "Lead Data Engineer",
+        "Product Owner"
+      ],
+      "technologies": [
+        "AWS",
+        "Argo",
+        "Atlassian",
+        "Azure",
+        "Docker",
+        "Google Cloud Platform",
+        "Hadoop",
+        "Immuta",
+        "IoT",
+        "Kafka",
+        "Kedro",
+        "Kubernetes",
+        "MQTT",
+        "Miro",
+        "NetworkX",
+        "PowerPoint",
+        "Python",
+        "Spark",
+        "Terraform"
+      ],
+      "countries": [
+        "\ud83c\udde6\ud83c\uddea United Arab Emirates",
+        "\ud83c\udde8\ud83c\udded Switzerland",
+        "\ud83c\udde9\ud83c\uddea Germany",
+        "\ud83c\uddec\ud83c\udde7 United Kingdom",
+        "\ud83c\uddee\ud83c\uddf9 Italy"
+      ],
+      "industries": [
+        "Banking",
+        "Biotech",
+        "Energy",
+        "Manufacturing",
+        "Public Sector & NGO"
+      ],
+      "start_date": "2021-05-24",
+      "end_date": "2022-06-03",
+      "clients_count": 5,
+      "name": "McKinsey and Company"
+    },
+    {
+      "roles": [
+        "Data Engineer",
+        "Lead Data Engineer"
+      ],
+      "technologies": [
+        "AWS",
+        "Azure",
+        "Databricks",
+        "Kedro",
+        "Python",
+        "Spark"
+      ],
+      "countries": [
+        "\ud83c\udde7\ud83c\uddea Belgium",
+        "\ud83c\udde8\ud83c\udded Switzerland",
+        "\ud83c\udde9\ud83c\uddea Germany",
+        "\ud83c\uddec\ud83c\udde7 United Kingdom"
+      ],
+      "industries": [
+        "Automotive",
+        "Pharmaceutical"
+      ],
+      "start_date": "2020-09-30",
+      "end_date": "2022-04-01",
+      "clients_count": 5,
+      "name": "Quantum Black"
+    },
+    {
+      "roles": [
+        "Coach"
+      ],
+      "technologies": [
+        "MongoDB",
+        "NodeJS",
+        "ReactJS"
+      ],
+      "countries": [
+        "\ud83c\udde7\ud83c\uddea Belgium"
+      ],
+      "industries": [
+        "Non-Profit"
+      ],
+      "start_date": "2019-11-11",
+      "end_date": "2019-12-22",
+      "clients_count": 1,
+      "name": "HYF Belgium"
+    },
+    {
+      "roles": [
+        "Data Engineer"
+      ],
+      "technologies": [
+        "AWS",
+        "Apache Airflow",
+        "Gitlab",
+        "Google Cloud Platform",
+        "Grafana",
+        "Hadoop",
+        "Helm",
+        "IntelliJ",
+        "Java",
+        "Kafka",
+        "Kubernetes",
+        "Prometheus",
+        "Python",
+        "REST",
+        "Spark",
+        "Tensorflow",
+        "Terraform",
+        "alpakka",
+        "concourse",
+        "dataflow"
+      ],
+      "countries": [
+        "\ud83c\udde7\ud83c\uddea Belgium"
+      ],
+      "industries": [
+        "Advertising and Marketing",
+        "Aerospace",
+        "Automotive",
+        "Governance and Compliance",
+        "IT Consulting",
+        "Telecommunications"
+      ],
+      "start_date": "2019-02-18",
+      "end_date": "2020-08-28",
+      "clients_count": 6,
+      "name": "Data Minded"
+    },
+    {
+      "roles": [
+        "Software Engineer"
+      ],
+      "technologies": [
+        "Django",
+        "Gitlab",
+        "Jira",
+        "Python",
+        "REST",
+        "ReactJS",
+        "Redux"
+      ],
+      "countries": [
+        "\ud83c\udde7\ud83c\uddea Belgium"
+      ],
+      "industries": [
+        "Aerospace"
+      ],
+      "start_date": "2018-10-10",
+      "end_date": "2019-02-15",
+      "clients_count": 1,
+      "name": "Space Applications Services"
+    },
+    {
+      "roles": [
+        "Graduate Student"
+      ],
+      "technologies": [
+        "Docker",
+        "Java",
+        "Keras",
+        "Kubernetes",
+        "Python",
+        "RabbitMQ",
+        "Tensorflow"
+      ],
+      "countries": [
+        "\ud83c\udde9\ud83c\uddea Germany"
+      ],
+      "industries": [
+        "Research"
+      ],
+      "start_date": "2017-11-01",
+      "end_date": "2018-06-30",
+      "clients_count": 1,
+      "name": "University of Cologne"
+    },
+    {
+      "roles": [
+        "Software Developer"
+      ],
+      "technologies": [
+        "AWS",
+        "Angular",
+        "Ionic",
+        "REST",
+        "Webpack"
+      ],
+      "countries": [
+        "\ud83c\udde6\ud83c\uddfa Australia"
+      ],
+      "industries": [
+        "Heavy Industries"
+      ],
+      "start_date": "2016-03-05",
+      "end_date": "2016-06-05",
+      "clients_count": 1,
+      "name": "Propeller Aero"
+    },
+    {
+      "roles": [
+        "Software Developer"
+      ],
+      "technologies": [
+        "API",
+        "AWS",
+        "Angular",
+        "Ansible",
+        "CA API Gateway",
+        "Hibernate",
+        "Ionic",
+        "Java",
+        "Java ME",
+        "NodeJS",
+        "OpenShift",
+        "Oracle ADF",
+        "Oracle IoT Cloud",
+        "Oracle Weblogic",
+        "Philips Hue",
+        "Phonegap",
+        "REST",
+        "Spring",
+        "Terraform",
+        "Vagrant"
+      ],
+      "countries": [
+        "\ud83c\udde9\ud83c\uddea Germany"
+      ],
+      "industries": [
+        "Automotive",
+        "Consumer Goods",
+        "IT Consulting",
+        "Logistics and Supply Chain",
+        "Pharmaceutical"
+      ],
+      "start_date": "2011-01-01",
+      "end_date": "2017-05-15",
+      "clients_count": 9,
+      "name": "Optiz Consulting GmbH"
+    }
+  ]
+}
