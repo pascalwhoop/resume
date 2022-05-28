@@ -36,7 +36,8 @@ basics:
   note: |
     This resume is automatically generated from my personal notes. As such, all
     technologies mentioned are derived from my actual notes for over 30 projects that I
-    have worked on in the last 10+ years. The code for this is [available on Github]()
+    have worked on in the last 10+ years
+  source: https://github.com/pascalwhoop/notion-resume
   
   url: https://pascalbrokmeier.de
 # certificates:

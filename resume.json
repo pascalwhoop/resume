@@ -20,6 +20,8 @@
       }
     ],
     "summary": "A computer scientist by background, I have broad technical skills in engineering\nsoftware & data systems, linux environments and in the cloud. I have served numerous\nclients in a large range of industries and can therefore offer a wide range of\nsolutions to complex problems.\n\nProfessionally, my topics of interest are:\nBiotech, Medtech and mineral based carbon capturing. \n\nPersonally, I am interested in longevity and mindfullness. \n",
+    "note": "This resume is automatically generated from my personal notes. As such, all\ntechnologies mentioned are derived from my actual notes for over 30 projects that I\nhave worked on in the last 10+ years\n",
+    "source": "https://github.com/pascalwhoop/notion-resume",
     "url": "https://pascalbrokmeier.de"
   },
   "languages": [
@@ -78,6 +80,12 @@
       "start_date": "2021-05-24",
       "end_date": "2022-06-03",
       "clients_count": 5,
+      "keylines": [
+        "Product Owner for greenfield data & analytics platform built with team of ~20 engineers for global organisation",
+        "Lead team of 8 engineers in developing a descriptive algorithm understanding what makes teams perform well at global bank",
+        "Developed GCP based data platform for manufacturing showroom, implementing data mesh principles to be taught to numerous clients",
+        "Designed & built MVP data platform together with CIO and team to digitise over 20 power plants and leverage IoT data worldwide"
+      ],
       "name": "McKinsey and Company"
     },
     {
@@ -106,27 +114,11 @@
       "start_date": "2020-09-30",
       "end_date": "2022-04-01",
       "clients_count": 5,
+      "keylines": [
+        "Developed Real World Evidence Pipeline with team of 6 engineers leveraging 30+TB of medical records to drive research agenda",
+        "Productionizing time series forecasting for automotive supply chain player, impacting 3w-3y planning horizon"
+      ],
       "name": "Quantum Black"
-    },
-    {
-      "roles": [
-        "Coach"
-      ],
-      "technologies": [
-        "MongoDB",
-        "NodeJS",
-        "ReactJS"
-      ],
-      "countries": [
-        "\ud83c\udde7\ud83c\uddea Belgium"
-      ],
-      "industries": [
-        "Non-Profit"
-      ],
-      "start_date": "2019-11-11",
-      "end_date": "2019-12-22",
-      "clients_count": 1,
-      "name": "HYF Belgium"
     },
     {
       "roles": [
@@ -168,6 +160,9 @@
       "start_date": "2019-02-18",
       "end_date": "2020-08-28",
       "clients_count": 6,
+      "keylines": [
+        "Built and maintained lambda architecture data platform for airport, enabling both real time and batch use cases, leveraging everything as code and DevOps principles"
+      ],
       "name": "Data Minded"
     },
     {
@@ -192,6 +187,9 @@
       "start_date": "2018-10-10",
       "end_date": "2019-02-15",
       "clients_count": 1,
+      "keylines": [
+        "Team member in scrum team developing planning and scheduling software for the ISS for both ESA and NASA"
+      ],
       "name": "Space Applications Services"
     },
     {
@@ -216,6 +214,9 @@
       "start_date": "2017-11-01",
       "end_date": "2018-06-30",
       "clients_count": 1,
+      "keylines": [
+        "Thesis on advanced automated power market trading strategies"
+      ],
       "name": "University of Cologne"
     },
     {
@@ -238,6 +239,9 @@
       "start_date": "2016-03-05",
       "end_date": "2016-06-05",
       "clients_count": 1,
+      "keylines": [
+        "Design and Implementation of Mobile Application, Optimization of Frontend Build Pipeline"
+      ],
       "name": "Propeller Aero"
     },
     {
@@ -279,6 +283,7 @@
       "start_date": "2011-01-01",
       "end_date": "2017-05-15",
       "clients_count": 9,
+      "keylines": [],
       "name": "Optiz Consulting GmbH"
     }
   ]

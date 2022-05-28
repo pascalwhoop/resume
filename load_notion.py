@@ -78,6 +78,15 @@ def get_company_name(item):
     """Get number of clients served"""
     return item.properties.Name.title[0].text.content
 
+def get_keylines(item):
+    """Get keylines for each job"""
+    items= item.properties.Keylines.rollup.array
+    if len(items) == 0:
+        return []
+    items = [i.plain_text for i in items[0].rich_text]
+    items.reverse()
+    return items
+
 #def clients_served_txt(item):
 #    """Get number of clients served"""
 #    roles_objects = item.properties.Clients.rollup.array
@@ -92,6 +101,7 @@ def build_dict_for_item(item):
         "start_date": get_date_range(item)[0],
         "end_date": get_date_range(item)[1],
         "clients_count": get_clients_served(item),
+        "keylines": get_keylines(item),
         "name": get_company_name(item)
     }
     return item

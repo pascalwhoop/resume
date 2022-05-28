@@ -21,6 +21,12 @@ p {
 p + p {
 	margin-top: 10px;
 }
+.cursive{
+	font-style: italic;
+}
+ul.highlights{
+	padding-left: 0px;
+}
 h1,
 h2,
 h3,
@@ -196,4 +202,17 @@ h4 span:first-child {
 		display: none;
 	}
 }
+
+
+@media print {
+	h2 { 
+	  page-break-before: always;
+	}
+	h3, h4 {
+	  page-break-after: avoid;
+	}
+	pre, blockquote {
+	  page-break-inside: avoid;
+	}
+  }
 
