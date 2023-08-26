@@ -33,6 +33,12 @@ basics:
 
     Personally, I am interested in longevity and mindfullness. 
 
+    I adhere to a principle that I was taught at Data Minded: You know nothing until you
+    deploy to production. Following this principle, I prefer to leverage the simplest
+    technology to create value immidiately and iterate from there. This may mean that the
+    first ETL pipeline is an `rsync` script and a `cron` job. But if it can be done in 4
+    hours, you provide value to your user instantly and begin the learning cycle. 
+    
   note: |
     This resume is automatically generated from my personal notes. As such, all
     technologies mentioned are derived from my actual notes for over 30 projects that I

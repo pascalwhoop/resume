@@ -1,290 +1,164 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "email": "jobs@pascalbrokmeier.de",
-    "image": "https://pascalbrokmeier.de/img/portrait_pascal_4_small.jpg",
-    "label": "Creative Lead Data Engineer & Product Owner",
-    "location": {
-      "address": "Arianelaan 4 B309",
-      "city": "Woluwe Saint Lambert",
-      "countryCode": "BE",
-      "postalCode": "1200",
-      "region": "Brussels"
-    },
     "name": "Pascal Brokmeier",
-    "phone": "+32477480284",
+    "label": "Programmer",
+    "image": "",
+    "email": "applications@pascalbrokmeier.de",
+    "phone": "(912) 555-4321",
+    "url": "http://richardhendricks.example.com",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "url": "https://www.linkedin.com/in/pascalbrokmeier/",
-        "username": "pascalbrokmeier"
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": ""
+      },
+      {
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.example.com/dandymusicnl"
       }
-    ],
-    "summary": "A computer scientist by background, I have broad technical skills in engineering\nsoftware & data systems, linux environments and in the cloud. I have served numerous\nclients in a large range of industries and can therefore offer a wide range of\nsolutions to complex problems.\n\nProfessionally, my topics of interest are:\nBiotech, Medtech and mineral based carbon capturing. \n\nPersonally, I am interested in longevity and mindfullness. \n",
-    "note": "This resume is automatically generated from my personal notes. As such, all\ntechnologies mentioned are derived from my actual notes for over 30 projects that I\nhave worked on in the last 10+ years\n",
-    "source": "https://github.com/pascalwhoop/notion-resume",
-    "url": "https://pascalbrokmeier.de"
+    ]
   },
-  "languages": [
-    {
-      "fluency": "Native speaker",
-      "language": "\ud83c\uddec\ud83c\udde7 English"
-    },
-    {
-      "fluency": "Native speaker",
-      "language": "\ud83c\udde9\ud83c\uddea German"
-    }
-  ],
   "work": [
     {
-      "roles": [
-        "Associate",
-        "Data Engineer",
-        "Lead Data Engineer",
-        "Product Owner"
-      ],
-      "technologies": [
-        "AWS",
-        "Argo",
-        "Atlassian",
-        "Azure",
-        "Docker",
-        "Google Cloud Platform",
-        "Hadoop",
-        "Immuta",
-        "IoT",
-        "Kafka",
-        "Kedro",
-        "Kubernetes",
-        "MQTT",
-        "Miro",
-        "NetworkX",
-        "PowerPoint",
-        "Python",
-        "Spark",
-        "Terraform"
-      ],
-      "countries": [
-        "\ud83c\udde6\ud83c\uddea United Arab Emirates",
-        "\ud83c\udde8\ud83c\udded Switzerland",
-        "\ud83c\udde9\ud83c\uddea Germany",
-        "\ud83c\uddec\ud83c\udde7 United Kingdom",
-        "\ud83c\uddee\ud83c\uddf9 Italy"
-      ],
-      "industries": [
-        "Banking",
-        "Biotech",
-        "Energy",
-        "Manufacturing",
-        "Public Sector & NGO"
-      ],
-      "start_date": "2021-05-24",
-      "end_date": "2022-06-03",
-      "clients_count": 5,
-      "keylines": [
-        "Product Owner for greenfield data & analytics platform built with team of ~20 engineers for global organisation",
-        "Lead team of 8 engineers in developing a descriptive algorithm understanding what makes teams perform well at global bank",
-        "Developed GCP based data platform for manufacturing showroom, implementing data mesh principles to be taught to numerous clients",
-        "Designed & built MVP data platform together with CIO and team to digitise over 20 power plants and leverage IoT data worldwide"
-      ],
-      "name": "McKinsey and Company"
-    },
-    {
-      "roles": [
-        "Data Engineer",
-        "Lead Data Engineer"
-      ],
-      "technologies": [
-        "AWS",
-        "Azure",
-        "Databricks",
-        "Kedro",
-        "Python",
-        "Spark"
-      ],
-      "countries": [
-        "\ud83c\udde7\ud83c\uddea Belgium",
-        "\ud83c\udde8\ud83c\udded Switzerland",
-        "\ud83c\udde9\ud83c\uddea Germany",
-        "\ud83c\uddec\ud83c\udde7 United Kingdom"
-      ],
-      "industries": [
-        "Automotive",
-        "Pharmaceutical"
-      ],
-      "start_date": "2020-09-30",
-      "end_date": "2022-04-01",
-      "clients_count": 5,
-      "keylines": [
-        "Developed Real World Evidence Pipeline with team of 6 engineers leveraging 30+TB of medical records to drive research agenda",
-        "Productionizing time series forecasting for automotive supply chain player, impacting 3w-3y planning horizon"
-      ],
-      "name": "Quantum Black"
-    },
-    {
-      "roles": [
-        "Data Engineer"
-      ],
-      "technologies": [
-        "AWS",
-        "Apache Airflow",
-        "Gitlab",
-        "Google Cloud Platform",
-        "Grafana",
-        "Hadoop",
-        "Helm",
-        "IntelliJ",
-        "Java",
-        "Kafka",
-        "Kubernetes",
-        "Prometheus",
-        "Python",
-        "REST",
-        "Spark",
-        "Tensorflow",
-        "Terraform",
-        "alpakka",
-        "concourse",
-        "dataflow"
-      ],
-      "countries": [
-        "\ud83c\udde7\ud83c\uddea Belgium"
-      ],
-      "industries": [
-        "Advertising and Marketing",
-        "Aerospace",
-        "Automotive",
-        "Governance and Compliance",
-        "IT Consulting",
-        "Telecommunications"
-      ],
-      "start_date": "2019-02-18",
-      "end_date": "2020-08-28",
-      "clients_count": 6,
-      "keylines": [
-        "Built and maintained lambda architecture data platform for airport, enabling both real time and batch use cases, leveraging everything as code and DevOps principles"
-      ],
-      "name": "Data Minded"
-    },
-    {
-      "roles": [
-        "Software Engineer"
-      ],
-      "technologies": [
-        "Django",
-        "Gitlab",
-        "Jira",
-        "Python",
-        "REST",
-        "ReactJS",
-        "Redux"
-      ],
-      "countries": [
-        "\ud83c\udde7\ud83c\uddea Belgium"
-      ],
-      "industries": [
-        "Aerospace"
-      ],
-      "start_date": "2018-10-10",
-      "end_date": "2019-02-15",
-      "clients_count": 1,
-      "keylines": [
-        "Team member in scrum team developing planning and scheduling software for the ISS for both ESA and NASA"
-      ],
-      "name": "Space Applications Services"
-    },
-    {
-      "roles": [
-        "Graduate Student"
-      ],
-      "technologies": [
-        "Docker",
-        "Java",
-        "Keras",
-        "Kubernetes",
-        "Python",
-        "RabbitMQ",
-        "Tensorflow"
-      ],
-      "countries": [
-        "\ud83c\udde9\ud83c\uddea Germany"
-      ],
-      "industries": [
-        "Research"
-      ],
-      "start_date": "2017-11-01",
-      "end_date": "2018-06-30",
-      "clients_count": 1,
-      "keylines": [
-        "Thesis on advanced automated power market trading strategies"
-      ],
-      "name": "University of Cologne"
-    },
-    {
-      "roles": [
-        "Software Developer"
-      ],
-      "technologies": [
-        "AWS",
-        "Angular",
-        "Ionic",
-        "REST",
-        "Webpack"
-      ],
-      "countries": [
-        "\ud83c\udde6\ud83c\uddfa Australia"
-      ],
-      "industries": [
-        "Heavy Industries"
-      ],
-      "start_date": "2016-03-05",
-      "end_date": "2016-06-05",
-      "clients_count": 1,
-      "keylines": [
-        "Design and Implementation of Mobile Application, Optimization of Frontend Build Pipeline"
-      ],
-      "name": "Propeller Aero"
-    },
-    {
-      "roles": [
-        "Software Developer"
-      ],
-      "technologies": [
-        "API",
-        "AWS",
-        "Angular",
-        "Ansible",
-        "CA API Gateway",
-        "Hibernate",
-        "Ionic",
-        "Java",
-        "Java ME",
-        "NodeJS",
-        "OpenShift",
-        "Oracle ADF",
-        "Oracle IoT Cloud",
-        "Oracle Weblogic",
-        "Philips Hue",
-        "Phonegap",
-        "REST",
-        "Spring",
-        "Terraform",
-        "Vagrant"
-      ],
-      "countries": [
-        "\ud83c\udde9\ud83c\uddea Germany"
-      ],
-      "industries": [
-        "Automotive",
-        "Consumer Goods",
-        "IT Consulting",
-        "Logistics and Supply Chain",
-        "Pharmaceutical"
-      ],
-      "start_date": "2011-01-01",
-      "end_date": "2017-05-15",
-      "clients_count": 9,
-      "keylines": [],
-      "name": "Optiz Consulting GmbH"
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "CEO/President",
+      "url": "http://piedpiper.example.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
     }
-  ]
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
 }

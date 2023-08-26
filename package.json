@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "handlebars": "^2.0.0-alpha.4",
-    "jsonresume-theme-flat": "github:pascalwhoop/jsonresume-theme-flat"
+    "jsonresume-theme-macchiato": "^1.1.0"
   },
   "license": "MIT"
 }
