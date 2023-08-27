@@ -1,5 +1,5 @@
 {
-  "name": "jsonresume-theme-flat",
+  "name": "resume",
   "version": "0.3.7",
   "description": "A theme for JSON Resume with multiple roles / experience",
   "author": "Mattias Erming",
@@ -7,12 +7,10 @@
     "type": "git",
     "url": "http://github.com/pascalwhoop/jsonresume-theme-flat"
   },
-  "scripts": {
-    "start": "resume serve"
-  },
   "dependencies": {
-    "handlebars": "^2.0.0-alpha.4",
-    "jsonresume-theme-macchiato": "^1.1.0"
+    "js-yaml": "^4.1.0",
+    "jsonresume-theme-macchiato": "./dependencies/jsonresume-theme-macchiato",
+    "resume-cli": "./dependencies/resume-cli"
   },
   "license": "MIT"
 }

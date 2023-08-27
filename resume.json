@@ -2,163 +2,207 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Pascal Brokmeier",
-    "label": "Programmer",
+    "label": "Creative Data | Cloud | AI Team Lead at QuantumBlack, AI by McKinsey",
     "image": "",
-    "email": "applications@pascalbrokmeier.de",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "email": "hi@pascalbrokmeier.de",
+    "phone": "+31 6 16 28 08 87",
+    "url": "https://pascalbrokmeier.de",
+    "summary": "<p>\nWith a background in computer science, I possess extensive technical expertise in\nsoftware and data systems engineering, Linux, and cloud environments. Building on\nthis, I have led teams of up to 20 members in both client engagements and internal\nprojects at McKinsey, serving clients across Europe, North America, and Asia in\nindustries such as banking, healthcare, biotech, energy, and materials.\n</p>\n<p>\nMy industrial focus areas are carbon capture, biotechnology, and material sciences.\nI dedicate my personal time to exploring longevity, mindfulness, maintaining regular\nexercise, and working on my homelab.\n</p>\n<p>\nGuided by the principle that learning comes from action, I encourage product teams to\nrelease early and frequently, using user feedback for iterative improvement.\n",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "NL",
+      "city": "Amsterdam"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "pascalwhoop",
+        "url": "https://www.linkedin.com/in/pascalwhoop/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "pascalwhoop",
+        "url": "https://github.com/pascalwhoop"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "QuantumBlack, AI by McKinsey & Company",
+      "position": "Expert & Product Manager",
+      "startDate": "2020-11-01",
+      "endDate": "",
+      "summary": "The worlds most renowed strategy consultancy, I work as a core member of their\nGenAI expert team, responsible for both enabling the firm at large as well as setting up\nsuccessful teams for client engagements.\n",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+        "Founded GenAI lab at QuantumBlack which grew to 60 people in 6 months",
+        "Lead Platform Design & Engineering at Germany's most successful Biotech company",
+        "Advised over 50 global executives and C-levels on their AI and Data strategies"
+      ],
+      "url": "https://www.linkedin.com/company/mckinsey/"
+    },
+    {
+      "name": "Data Minded",
+      "position": "Data Engineer",
+      "startDate": "2019-02-28",
+      "endDate": "2020-08-31",
+      "summary": "A boutique consultancy specialised in Data Engineering and the place where I turned from Software Engineering to Data Engineering, Cloud Computing and Architecture.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/data-minded/",
+      "location": "Belgium"
+    },
+    {
+      "name": "Space Applications",
+      "position": "Software Engineer",
+      "startDate": "2018-10-31",
+      "endDate": "2019-02-28",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/space-applications-services/",
+      "location": "Brussels Area, Belgium"
+    },
+    {
+      "name": "Propeller Aerobotics",
+      "position": "Software Engineer",
+      "startDate": "2016-03-31",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "summary": "A startup in the drone space, I worked on the web and mobile apps. This\nposition allowed me to understand how a successful scaleup looks like from the inside and\nhow to build products that focus purely on the user.\n",
+      "url": "https://www.linkedin.com/company/propeller-aero/",
+      "location": "Sydney, Australia"
+    },
+    {
+      "name": "Opitz Consulting",
+      "position": "Software Developer",
+      "startDate": "2011-08-31",
+      "endDate": "2017-09-30",
+      "summary": "A SME consultancy based in Germany, this company taught me a lot about how to design\nsoftware well and gave me numerous opportunties to consult clients and speek at\nconferences at an early stage in my career.  \n",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/opitz-consulting-deutschland-gmbh/"
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "Erasmus Student Network",
+      "position": "ESN volunteer & Partnership Manager Germany",
+      "startDate": "2015-02-28",
+      "endDate": "2017-10-31",
+      "summary": "Working with other students to help foreign exchange students in Cologne to get settled, make friends, understand the University systems and organise social get togethers. ",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/16191721"
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
+      "institution": "University of Cologne",
+      "area": "Information Systems",
+      "studyType": "Bachelor & Master of Science",
+      "startDate": "2015-12-31",
+      "endDate": "2018-12-31",
+      "score": "1.6",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Business Management & Operations",
+        "Evolutionary Psychology",
+        "Complexity & Decision Theory",
+        "Data Science",
+        "Information Systems Architecture",
+        "Software Engineering"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "institution": "University of Technology Sydney",
+      "area": "Information Technology",
+      "studyType": "Exchange Program",
+      "startDate": "2016-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google Cloud Certified Professional Cloud Architect",
+      "issuer": "Google",
+      "endDate": "2021-08-31",
+      "startDate": "2019-08-31",
+      "url": "https://www.credential.net/8rwu69kd?key=9b0feadbff00c9d715f4d191a567aaa04b284607f682760f2a0999457f24c81c"
+    },
+    {
+      "name": "Google Cloud Certified Professional Data Engineer",
+      "issuer": "Google",
+      "endDate": "2021-10-31",
+      "startDate": "2019-10-31",
+      "url": "https://www.credential.net/59pxu14t?key=099e2dda586e4a3325f305170f664b6631526107e4414e2dbd65413910692951"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strategy",
+      "level": "",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Product",
+        "Data",
+        "Cloud",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "",
+      "keywords": [
+        "Business Development",
+        "Sales",
+        "Product Design",
+        "Coaching"
+      ]
+    },
+    {
+      "name": "Solution Architecture",
+      "level": "",
+      "keywords": [
+        "Streaming",
+        "Data Mesh Design",
+        "Microservices",
+        "Data Pipelines"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "Scala",
+        "Go",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Data/Cloud Engineering",
+      "level": "",
+      "keywords": [
+        "AWS/GCP/Azure",
+        "Kubernetes",
+        "Airflow",
+        "Spark",
+        "Kafka",
+        "Terraform"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+      "fluency": "Native Speaker"
+    },
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "language": "German",
+      "fluency": "Native Speaker"
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
 }
