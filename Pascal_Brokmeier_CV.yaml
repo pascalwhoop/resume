@@ -1,0 +1,164 @@
+cv:
+  name: Pascal Brokmeier
+  label: Head of Engineering at Every Cure | Working at the intersection of biology & AI
+  location: Amsterdam, Netherlands
+  email: hi@pascalbrokmeier.de
+  phone: '+49 1573 6519824'
+  website: https://pascalbrokmeier.de
+  social_networks:
+    - network: LinkedIn
+      username: pascalwhoop
+    - network: GitHub
+      username: pascalwhoop
+    - network: ORCID
+      username: 0009-0003-0777-4797
+
+  sections:
+    summary:
+      - Engineering leader with 13 years of experience, now building and scaling teams at the intersection of AI, cloud, and life sciences. Currently leading engineering at Every Cure, overseeing several programs leveraging graphs, agents, real-world evidence and human labelling systems to accelerate drug repurposing.
+      - Previously built McKinsey's internal GenAI platform serving 30M+ API requests with no known downtime, enabling 500+ consultants globally. Co-founded GenAI Lab scaling from 0 to 60 experts in 6 months.
+      - Advised Global Fortune 500 CxOs across 7 countries on AI strategy through confirmed projects and 20+ pre-sales engagements, with expertise spanning banking, energy, pharma, biotech, and automotive industries.
+      - Hands-on technical leader spending 50% of time coding alongside teams, with deep expertise in cloud architecture (AWS/GCP/Azure), MLOps, and hybrid infrastructure.
+  
+    work_experience:
+      - company: Every Cure
+        position: Head of Engineering
+        start_date: 2024-06
+        location: New York, United States (Remote)
+        summary: Leading engineering operations for AI-driven drug repurposing startup, building and scaling the technical organization from scratch as one of the earliest employees. Architecting AI platforms that enable researchers to systematically identify promising drug repurposing opportunities through advanced knowledge graph processing, agent-based systems, and human-AI collaboration workflows. Managing cross-functional technical initiatives across internal teams, external contractors, and medical researchers while ensuring regulatory compliance and stakeholder alignment.
+        highlights:
+          - Built technical organization from 0 to 50+ members including 33 code contributors, 6 direct engineering hires, 5 external developers, 20+ onboarded researchers, and 7 data scientists
+          - Managed $3+M annual technical budget across research operations ($2M), compute infrastructure ($300K), and external contractors ($800K)
+          - Delivered 5x improvement in medical team review process throughput through AI-assisted decision support systems
+          - Architected knowledge graph processing platform completing 400+ experiments with 18-hour average processing time, handling 10TB+ of data
+          - Negotiated $200K in Google Cloud credits despite non-profit status restrictions
+          - Present quarterly technical updates to advisory board, ARPA-H, and TED Audacious Project stakeholders
+
+      - company: McKinsey & Company (QuantumBlack)
+        position: Expert - Data Engineer / Engagement Manager
+        start_date: 2020-09
+        end_date: 2024-05
+        location: Amsterdam, North Holland, Netherlands
+        summary: Evolved from technical specialist to strategic engineering leader while gaining unprecedented global exposure across industries and Fortune 500 companies. Consistently leveraged data and information processing as the primary driver of business transformation, presenting technical strategies directly to C-suite executives from San Francisco to Tokyo. Led cross-cultural engineering teams and architected data platforms spanning diverse challenges - from consumer goods supply chains in the US, to green energy digitization in Japan, pharmaceutical drug discovery in Germany, and digital banking platforms across Europe. Culminated tenure by pioneering McKinsey's GenAI capabilities, building the firm's first enterprise-scale GenAI platform during the early days of the generative AI revolution.
+        highlights:
+          - Co-founded and scaled GenAI Lab from 0 to 60 experts in 6 months, establishing global center of excellence for foundation models
+          - Architected and operated internal GenAI platform serving 30M+ API requests with 100% uptime over 8 months, enabling 500+ consultants globally
+          - Developed technical strategies for CxOs globally, including Fortune 50 US consumer goods CTO, energy executives (UAE, Japan), banking leaders (Europe)
+          - Directed platform engineering initiatives across 7 countries spanning consumer goods, energy, banking, insurance, automotive, and life sciences
+          - Supported 20+ pre-sales engagements and delivered confirmed projects across banking (Europe), pharma (Canada), energy (Japan), and consumer goods (US)
+  
+      - company: Data Minded
+        position: Data Engineer
+        start_date: 2019-02
+        end_date: 2020-08
+        location: Leuven, Belgium
+        summary: Foundational period that transformed software engineering expertise into large-scale data engineering capabilities across diverse infrastructure environments. Mastered the full spectrum of data platform architecture - from serverless cloud functions to bare metal hadoop cluster operations in telco and banking, gaining hands-on experience with every layer of the modern data stack. This role established core competencies in infrastructure-as-code, DevOps practices, and production data pipeline operations that became essential for subsequent positions. The experience bridged traditional software engineering with cloud-native data architecture, providing the technical foundation for later strategic roles at McKinsey and startup environments.
+        highlights:
+          - Architected and operated enterprise Cloud Data Platform for Brussels airport using AWS, Kubernetes, and Spark, supporting 50+ developers (€50M EU co-funded initiative)
+          - Implemented full infrastructure-as-code approach using Terraform with automated CI/CD pipelines for production deployments
+          - Developed real-time prediction model for aircraft de-icing optimization (discontinued due to COVID-19 impact)
+  
+      - company: Propeller Aerobotics
+        position: Software Engineer
+        start_date: 2016-03
+        end_date: 2016-06
+        location: Sydney, Australia
+        summary: Immersive experience in a customer-obsessed product startup focused on democratizing survey-grade data through drone technology. Worked in a no-BS, no-process environment where constant customer conversations drove every technical decision. Contributed to building an integrated hardware/software platform that disrupted traditional surveying by making drone-based data collection accessible and affordable for enterprises. This role provided first exposure to rapid startup scaling, cross-functional product development, and the lean methodology of building what customers actually need rather than what engineers think they want.
+        highlights:
+          - Built mobile application for AeroPoints hardware product enabling survey-grade accuracy from drone photography by leveraging voronoi tessellation algorithm to determine AeroPoint placement
+          - Contributed to platform processing 1M+ images across 2000+ sites in 60 countries during rapid international expansion
+          - Experienced initial startup scaling from 7 to 20 employees
+          - Worked on hardware/software integration connecting ground control points with mobile apps and cloud processing
+  
+      - company: OPITZ CONSULTING Deutschland GmbH
+        position: Part-time Software Developer
+        start_date: 2011-08
+        end_date: 2017-09
+        location: Cologne, Germany
+        summary: Foundational career period where I learned to approach software engineering as a craft rather than just a job. Mentored by senior solution architects (including current Steadybit CTO) who instilled a mindset of intellectual humility, continuous learning, and technical excellence. As a student intern and part-time developer, gained privileged access to numerous R&D projects spanning the full enterprise software stack. This role established core competencies in Oracle-based enterprise development, 3-tier web applications, and database-driven systems while working a dozen German companies. The experience taught me that great engineers acknowledge how little they know, remain endlessly curious, and treat every project as an opportunity to deepen technical understanding.
+        highlights:
+          - only student team member permitted to work fully billable to build bix-digital.com, Boehringer Ingelheim's in-house digital accelerator, later open sourced as opendevstack.org
+          - Mentored by 2 solution architects including future CTO of Steadybit, learning software engineering as a craft
+          - Developed enterprise applications using Oracle ADF, Java, Spring, Angular across 3-tier web architectures
+          - Gained hands-on experience with databases, ORM frameworks, and enterprise integration patterns
+  
+    education:
+      - institution: University of Cologne
+        area: Information Systems
+        degree: Master of Science
+        start_date: 2015
+        end_date: 2018
+        location: Cologne, Germany
+        summary: Interdisciplinary program combining mathematical, business, and computer science perspectives on complex systems. Conducted cutting-edge research in reinforcement learning applied to energy markets, contributing novel approaches to multi-agent competitive simulations. Active in open source development and social impact projects including Erasmus Student Network initiatives.
+        highlights:
+          - "Master Thesis: 'Observation-based Reinforcement Learning Within Competitive Simulations' - developed LSTM-based RL agent for wholesale energy market trading using Deep Q-Learning and policy gradient methods"
+          - "Published research paper: 'Project Level Effects of Gender on Contribution Evaluation on GitHub' analyzing bias in open source software development across 100+ repositories"
+          - Built Java-Python gRPC bridge enabling neural network frameworks (TensorFlow/Keras) to interface with PowerTAC competition environment
+          - Developed Facebook event-based social calendar application with personalized recommendation system for German social events
+          - Led multiple Erasmus Student Network projects including event management APIs, web platforms, and community engagement tools
+          - "Technical projects: 433MHz radio frequency adapter for home server automation"
+          - "Coursework: Business Management & Operations, Evolutionary Psychology, Complexity & Decision Theory, Data Science, Information Systems Architecture"
+  
+      - institution: University of Technology Sydney
+        area: Information Technology
+        degree: Exchange Program
+        start_date: 2016
+        end_date: 2016
+        location: Sydney, Australia
+        summary: Scholarship recipient for Data Science & AI specialization program during a pivotal period in global technology development. This academic experience marked the transition from traditional software engineering to data-driven approaches, providing international perspective on emerging technologies and research methodologies. Gained exposure to cutting-edge AI/ML curriculum and research environment that shaped future career direction.
+        highlights:
+          - Received PROMOS scholarship for academic excellence in Data Science & AI curriculum
+          - Specialized coursework in machine learning, data science, and artificial intelligence methodologies
+  
+      - institution: University of Cologne
+        area: Informatics
+        degree: Bachelor of Science
+        start_date: 2013
+        end_date: 2015
+        location: Cologne, Germany
+        summary: Foundational computer science education emphasizing theoretical understanding and practical application. Concurrent with part-time software development role at OPITZ CONSULTING, providing real-world context to academic learning and early exposure to enterprise software development practices.
+  
+    skills:
+      - label: AI/ML Platform Engineering
+        details: GenAI platforms, MLOps, reinforcement learning, knowledge graphs, production LLM deployment, TensorFlow/Keras, neural network architectures
+  
+      - label: Engineering Leadership
+        details: Team building (0-65 people), budget management ($3M+), technical strategy, cross-functional leadership, stakeholder management, board presentations
+  
+      - label: Cloud & Infrastructure Architecture  
+        details: AWS/GCP/Azure, Kubernetes, Terraform, hybrid cloud, bare metal, infrastructure-as-code, DevOps, enterprise architecture
+  
+      - label: Data Engineering & Analytics
+        details: Large-scale data platforms, streaming/batch processing, data pipelines, Spark, real-time systems, database design, ETL/ELT
+  
+      - label: Strategic Technology Consulting
+        details: C-suite advisory, technology vision, digital transformation, enterprise integration, pre-sales engineering, global client engagement
+  
+    awards:
+      - name: McKinsey's Global Gluck Award
+        date: 2023
+        summary: Awarded to the highest performing publishing insight & internal knowledge document globally, in our case for a 60 page primer on GenAI.
+      - name: PROMOS Scholarship
+        date: 2016
+        summary: Scholarship for exchange program at University of Technology Sydney
+      - name: Germany Scholarship
+        date: 2014 - 2018
+        summary: Scholarship sponsored by the German government and private givers, awarded to approx 1% of all students 
+  
+    online_resources:
+      - name: 'Personal Blog'
+        date: 2017 - present
+        summary: Personal blog sharing homelab projects and thoughts about society and technology
+        url: https://curiloo.com
+
+      - name: 'Podcast: What not to build in the age of AI'
+        date: 2025-04
+        summary: Podcast discussing GenAI's impact on software development complexity and the importance of deprecating systems while experimenting with AI
+        url: https://www.youtube.com/watch?v=4hanym7zfOA
+      
+      - name: Challenges and Opportunities in Building Data Science Solutions with LLMs
+        date: 2023-04-24
+        summary: Presentation about deploying LLMs in production systems during the early days of GenAI for the MLOps community
+        url: https://www.youtube.com/watch?v=0j0EtPDunyY
+design:
+  theme: modcvcustomlong

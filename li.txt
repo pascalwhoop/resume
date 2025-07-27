@@ -1,0 +1,104 @@
+Contact
+accounts@pascalbrokmeier.de
+www.linkedin.com/in/pascalwhoop
+(LinkedIn)
+Pascal Brokmeier
+Head of Engineering at Every Cure | Working at the intersection of
+biology & AI
+Netherlands
+Top Skills
+Engineering Management
+Software Engineering
+Digital Strategy
+Summary
+Tech leader with a proven track record of building and scaling
+engineering teams at the intersection of AI, cloud, and life sciences.
+Currently leading engineering at Every Cure to revolutionize drug
+repurposing through AI-driven approaches.
+Languages
+German (Native or Bilingual)
+Italian (Elementary)
+English (Native or Bilingual)
+Honors-Awards
+Germany Scholarship
+PROMOS Scholarship
+Previously drove engineering excellence at Quantum Black /
+McKinsey, where among others, I lead the internal GenAI developer
+platform serving 30M+ API requests with 100% uptime from
+inception to funding, development and operations. Of course I also
+ticked the "usual" McKinsey boxes: Meeting Fortune 500 CxOs (US),
+building new business models for power network operators (JP), AI
+platforms (UAE, DE) and implemented new digital products for banks
+and pharma (NL, UK, US, CH).
+My journey started with hands-on software engineering at OPITZ and
+building cloud data platforms at Data Minded, giving me a unique
+blend of technical depth and strategic leadership.
+Key strengths:
+• Building and leading high-performing engineering teams
+• Scaling AI/ML platforms and infrastructure
+• Cloud architecture (AWS, GCP, Azure)
+• On premise / bare metal compute infrastructure
+• Engineering strategy and digital transformation
+• Cross-functional leadership experience working with C-suite
+executives
+Experience
+Every Cure
+Head of Engineering
+June 2024 - Present (1 year 2 months)
+New York, United States
+Page 1 of 3
+Building the Engineering Team & AI Platform for Every Cure. I joined the team
+in early 2024 as one of the first employees and got to experience all the joys
+and struggles of building a company from scratch. We were awarded a total
+of 110M+ USD to date by the US government as well as through the TED's
+Audacious Project. The platform my team and I are building is enabling dozens
+of researchers to distill billions of data points into a small handful of clinical
+bets through several stages of refinement.
+McKinsey & Company
+Expert - Data Engineer
+September 2020 - May 2024 (3 years 9 months)
+Amsterdam, North Holland, Netherlands
+At McKinsey & QB I moved from an engineer to an engineering leader. As
+customary at McKinsey I had exposure to some of the largest companies in
+the world and had the privilege to work with CXOs around the world. Industries
+included banking, energy, pharma, biotech, insurance, automotive and
+consumer products.
+The last year at the firm I got to build the internal GenAI Platform for all CSTs
+which at the time of departures served over 30M API requests and had 0%
+downtime over 8 months, enabling several hundred consultants to serve
+clients at a time where GenAI was still hard to access in most enterprises.
+Data Minded
+Data Engineer
+February 2019 - August 2020 (1 year 7 months)
+Belgium
+Data Minded taught me how to turn my Software Engineering skills and apply
+them to data no matter the scale and how to build data systems on any cloud
+or on-premise system. Whether serverless, cluster, cloud, virtual machines or
+bare metal servers. The biggest project took me to the Brussels Airport where
+I built and operated their Cloud Data Platform based on AWS, Kubernetes and
+Spark, managed via terraform and CI/CD. We also built a prediction model for
+de-icing activities on the airside which got cut short at the arrival of COVID-19.
+OPITZ CONSULTING Deutschland GmbH
+Software Developer
+August 2011 - September 2017 (6 years 2 months)
+At Opitz, I learnt the foundations of what good software engineering and
+engineering craftmanship looks like. I got to work with several German
+companies, amongst others Daimler, Boehringer Ingelheim and Oracle.
+Page 2 of 3
+Propeller Aerobotics
+Software Engineer
+March 2016 - June 2016 (4 months)
+Sydney, Australia
+At Propeller Aero I had my first exposure to a product startup where I learnt
+how to work in a lean and mission driven team. I got to build the mobile
+application for their AeroPoints product which allows survey-grade data
+generation using drone photography with a price point several orders of
+magnitude below commercial offerings at the time.
+Education
+University of Cologne
+Master’s Degree, Information Systems · (2015 - 2018)
+University of Technology Sydney
+Master of Science (M.Sc.), Information Technology · (2016 - 2016)
+University of Cologne
+Bachelor’s Degree, Informatics · (2013 - 2015)
+Page 3 of 3
