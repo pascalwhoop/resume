@@ -1,0 +1,90 @@
+cv:
+  name: Pascal Brokmeier
+  label: Head of Engineering at Every Cure | Working at the intersection of biology & AI
+  location: Amsterdam, Netherlands
+  email: hi@pascalbrokmeier.de
+  phone: '+49 1573 6519824'
+  website: https://pascalbrokmeier.de
+  social_networks:
+    - network: LinkedIn
+      username: pascalwhoop
+    - network: GitHub
+      username: pascalwhoop
+    - network: ORCID
+      username: 0009-0003-0777-4797
+
+  sections:
+    summary:
+      - Engineering leader with 13 years of experience building AI platforms and scaling teams. Currently leading engineering at Every Cure, accelerating drug repurposing through AI and knowledge graphs.
+      - Advised executives globally on AI strategy, data platforms and transformation programs. Built McKinsey's internal GenAI platform serving 30M+ API requests with 100% uptime, enabling 500+ consultants globally. Co-founded GenAI Lab scaling from 0 to 60 practitioners in 6 months.
+
+    work_experience:
+      - company: Every Cure
+        position: Head of Engineering
+        start_date: 2024-06
+        location: New York
+        summary: Leading engineering operations for AI-driven drug repurposing startup, building technical organization from scratch as one of the earliest employees.
+        highlights:
+          - Built technical organization from 0 to 50+ members including 33 code contributors and 6 direct engineering hires
+          - Delivered 5x improvement in medical team review process throughput through AI-assisted decision support systems
+          - Architected knowledge graph processing platform completing 400+ experiments with 18-hour average processing time
+
+      - company: McKinsey & Company
+        position: Expert - Data Engineer / Engagement Manager
+        start_date: 2020-09
+        end_date: 2024-05
+        location: Netherlands
+        summary: Evolved from technical specialist to strategic engineering leader with global exposure across Fortune 500 companies.
+
+      - company: Data Minded
+        position: Data Engineer
+        start_date: 2019-02
+        end_date: 2020-08
+        location: Belgium
+        summary: Transformed software engineering expertise into large-scale data engineering capabilities across diverse infrastructure environments.
+
+      - company: Propeller Aerobotics
+        position: Software Engineer
+        start_date: 2016-03
+        end_date: 2016-06
+        location: Sydney, Australia
+
+      - company: OPITZ CONSULTING Deutschland GmbH
+        position: Software Developer
+        start_date: 2011-08
+        end_date: 2017-09
+        location: Cologne, Germany
+
+    education:
+      - institution: University of Cologne
+        area: Information Systems
+        degree: Master of Science
+        start_date: 2015
+        end_date: 2018
+        location: Cologne, Germany
+        highlights:
+          - "Master Thesis: Developed LSTM-based reinforcement learning agent for wholesale energy market trading using Deep Q-Learning"
+          - "Published research: 'Project Level Effects of Gender on Contribution Evaluation on GitHub' analyzing bias in open source development"
+
+      - institution: University of Technology Sydney
+        area: Information Technology
+        degree: Exchange Program
+        start_date: 2016
+        end_date: 2016
+        location: Sydney, Australia
+
+    online_resources:
+      - name: 'Personal Blog'
+        date: 2017 - present
+        url: https://curiloo.com
+
+      - name: 'Podcast: What not to build in the age of AI'
+        date: 2025-04
+        url: https://www.youtube.com/watch?v=4hanym7zfOA
+      
+      - name: Challenges and Opportunities in Building Data Science Solutions with LLMs
+        date: 2023-04-24
+        url: https://www.youtube.com/watch?v=0j0EtPDunyY
+
+design:
+  theme: modcvcustomlong 

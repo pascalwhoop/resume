@@ -1,0 +1,59 @@
+name: Monthly CV Release
+
+on:
+  schedule:
+    # Run on the 1st of every month at 9 AM UTC
+    - cron: '0 9 1 * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          
+      - name: Install uv
+        uses: astral-sh/setup-uv@v1
+        with:
+          version: "latest"
+          
+      - name: Install dependencies
+        run: |
+          uv sync
+          
+      - name: Build CVs
+        run: make build
+          
+      - name: Generate version tag
+        id: version
+        run: |
+          VERSION=$(date +"%Y-%m")
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "tag=v$VERSION" >> $GITHUB_OUTPUT
+          
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: "CV Release ${{ steps.version.outputs.version }}"
+          body: |
+            Monthly CV release for ${{ steps.version.outputs.version }}
+            
+            ## Files included:
+            - `pascal_brokmeier_cv_long.pdf` - Comprehensive version for ATS/LLM systems
+            - `pascal_brokmeier_cv_short.pdf` - Concise 1-page version for human reviewers
+            
+          files: |
+            output/pascal_brokmeier_cv_long.pdf
+            output/pascal_brokmeier_cv_short.pdf
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

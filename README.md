@@ -15,6 +15,7 @@ I've created a custom theme that extends the moderncv design with the following 
 - **Custom typography**: Uses Fontin font family for a clean, professional look
 - **Modern layout**: Clean section headers with horizontal lines
 - **ATS-friendly**: Optimized for Applicant Tracking Systems while maintaining visual appeal
+- **Configurable disclaimer**: Optional disclaimer text that appears below contact information
 
 ### Key Sections
 
@@ -67,14 +68,31 @@ The `modcvcustomlong` theme includes:
 - **Entries**: Two-column layout with dates/locations on the right
 - **Links**: Underlined links with optional external link icons
 - **Typography**: Fontin font family throughout
+- **Disclaimer**: Configurable disclaimer text below contact information
 
 ### Template Files
 
 - `NormalEntry.j2.typ`: Handles online resources with clickable links
 - `ExperienceEntry.j2.typ`: Work experience formatting
 - `EducationEntry.j2.typ`: Education section layout
-- `Header.j2.typ`: Header with contact information
+- `Header.j2.typ`: Header with contact information and disclaimer
 - `Preamble.j2.typ`: Theme configuration and styling
+
+### Custom Fields
+
+The theme supports additional custom fields in the CV section:
+
+- `disclaimer`: Optional text displayed below contact information in small italic font
+
+Example:
+
+```yaml
+cv:
+  name: Your Name
+  disclaimer:
+    "This CV is a long version designed for LLM-based evaluation systems. A 1-page version is
+    available on GitHub."
+```
 
 ## Content Strategy
 
