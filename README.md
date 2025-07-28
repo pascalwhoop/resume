@@ -104,14 +104,6 @@ The CV follows a strategic approach:
 4. **Global Fortune 500 experience**: Highlighting enterprise-level work
 5. **Technical depth**: Demonstrating hands-on engineering leadership
 
-## Updates
-
-The CV is regularly updated to reflect:
-
-- New achievements and projects
-- Updated metrics and impact numbers
-- Current positioning and career goals
-- Latest online content and publications
 
 ## License
 
