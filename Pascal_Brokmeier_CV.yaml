@@ -15,7 +15,7 @@ cv:
 
   sections:
     disclaimer:
-      - "This CV is a long version designed for LLM-based evaluation systems. A 1-page version is available on [GitHub](https://github.com/pascalwhoop/resume/foobar)."
+      - "This CV is a long version designed for LLM-based evaluation systems. A 1-page version is available on [GitHub](https://github.com/pascalwhoop/resume/releases/latest/download/pascal_brokmeier_cv_short.pdf)."
     summary:
       - Engineering leader with 13 years of experience, now building and scaling teams at the intersection of AI, cloud, and life sciences. Currently leading engineering at Every Cure, overseeing several programs leveraging graphs, agents, real-world evidence and human labelling systems to accelerate drug repurposing.
       - Previously built McKinsey's internal GenAI platform serving 30M+ API requests with no known downtime, enabling 500+ consultants globally. Co-founded GenAI Lab scaling from 0 to 60 experts in 6 months.
